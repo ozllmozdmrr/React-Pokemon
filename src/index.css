@@ -3,7 +3,7 @@
 body {
   margin: 0;
   font-family: 'Inter', sans-serif;
-  background-color: #cfc5bd;
+  background-image: linear-gradient(to top, #dfe9f3 0%, white 100%);
   font-weight: bold;
   text-align: center;
 }
